@@ -1,0 +1,16 @@
+#main {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: none;
+  justify-content: space-between;
+}
+
+#list-div {
+  flex: 1;
+
+}
+
+#content-div{
+  flex: 2;
+
+}
